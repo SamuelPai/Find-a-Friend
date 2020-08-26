@@ -1,6 +1,6 @@
 # FriendFinder
-A compatibility-based "FriendFinder" application 
-
+A compatibility-based "FriendFinder" application
+https://sams-friendfinder-2019.herokuapp.com/survey
 
 This app asks users a series of 10 questions in order to get to know the user's personality. It will then search through a pre populated data file and match the user with a friend who will be potentially compatible. 
 
